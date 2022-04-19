@@ -1,0 +1,19 @@
+{
+  "name": "3-tasksconsola",
+  "version": "1.0.0",
+  "description": "Aplicación que permite crear, completar y borrar tareas desde la consola",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "tasks"
+  ],
+  "author": "Sebastian Wilches",
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "inquirer": "^8.2.2",
+    "uuid": "^8.3.2"
+  }
+}
